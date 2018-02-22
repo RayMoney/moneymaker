@@ -1,2 +1,5 @@
 # moneymaker
-coin
+
+coin collector 
+
+let's gitit
